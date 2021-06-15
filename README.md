@@ -1,4 +1,4 @@
-# awesome-reversing    
+# reverse-engineering
 
 A curated list of awesome reversing resources   
 
